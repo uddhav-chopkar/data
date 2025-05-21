@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "Cotton T-Shirt",
+    "type": "Topwear",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "Sky Blue",
+    "brand": "Levi's",
+    "price": 799,
+    "inStock": true,
+    "material": "Cotton",
+    "discount": "10%",
+    "Image": "https://m.media-amazon.com/images/I/61HS4sTDnPL._SY741_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Denim Jeans",
+    "type": "Bottomwear",
+    "size": [
+      "30",
+      "32",
+      "34"
+    ],
+    "color": "Dark Blue",
+    "brand": "Wrangler",
+    "price": 1499,
+    "inStock": true,
+    "material": "Denim",
+    "discount": "15%",
+    "Image": "https://m.media-amazon.com/images/I/616xchp1ECL._SY741_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Winter Jacket",
+    "type": "Outerwear",
+    "size": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "Black",
+    "brand": "Puma",
+    "price": 2499,
+    "inStock": false,
+    "material": "Polyester",
+    "discount": "20%",
+    "Image": ""
+  },
+  {
+    "id": 4,
+    "name": "Casual Shorts",
+    "type": "Bottomwear",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "color": "Gray",
+    "brand": "Nike",
+    "price": 999,
+    "inStock": true,
+    "material": "Cotton",
+    "discount": "5%",
+    "Image": "https://images-cdn.ubuy.co.in/66988a2fc57ff352955e0214-hombom-mens-shorts-men-casual-solid-knee.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Formal Shirt",
+    "type": "Topwear",
+    "size": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "White",
+    "brand": "Peter England",
+    "price": 1199,
+    "inStock": true,
+    "material": "Cotton Blend",
+    "discount": "12%",
+    "image": "https://10d06a4d12b851f1b2d5-6729d756a2f36342416a9128f1759751.lmsin.net/1000010598185-Grey-Grey-1000010598185-10282021_01-1200.jpg"
+  }
+]
